@@ -14,6 +14,16 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
     <junit.jupiter.version>5.6.2</junit.jupiter.version>
+
+
+    <sonar.projectKey>AlexValero5_sisPagosJUnit</sonar.projectKey>
+    <sonar.organization>alexvalero5</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>6c31a7772015cf2e394e0a98d2882cb5652cdfa2</sonar.login>
+    <sonar.projectKey>AlexValero5_sisPagosJUnit</sonar.projectKey>
+    <sonar.organization>alexvalero5</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>6c31a7772015cf2e394e0a98d2882cb5652cdfa2</sonar.login>
   </properties>
 
   <dependencies>

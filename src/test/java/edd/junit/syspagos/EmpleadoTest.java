@@ -139,7 +139,7 @@ class EmpleadoTest {
         Assertions.assertEquals(333,e.getMeses_trabajo());
     }
 
-    @Test @DisplayName("Establecer meses negativos")
+ /*   @Test @DisplayName("Establecer meses negativos")
     public void estableceMeses_Trabajo_negativos() {
 
         Empleado e = new Empleado();
@@ -147,7 +147,7 @@ class EmpleadoTest {
             e.estableceMeses_Trabajo("-280");
         });
     }
-
+*/
     @Test @DisplayName("Establecer meses decimales")
     public void estableceMeses_Trabajo_decimales() {
 
